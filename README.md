@@ -1,4 +1,7 @@
-# react_js_docs
+# ReactJS Docs (Unofficial)
+
+### Disclaimer: 
+**This is an unofficial app and is not affiliated with or endorsed by Facebook or the React.js team. The app is developed to make the official React.js documentation more accessible on mobile devices.**
 
 "ReactJS Docs" is an unofficial app designed to provide easy access to the official React.js documentation on your mobile device.
 
@@ -17,8 +20,6 @@ Stay updated with the latest React.js documentation as we ensure the app content
 ### Dark Mode: 
 Reduce eye strain with a dark mode option for comfortable reading in low-light environments.
 
-## Disclaimer: 
-### This is an unofficial app and is not affiliated with or endorsed by Facebook or the React.js team. The app is developed to make the official React.js documentation more accessible on mobile devices.
 
 ## Why Choose ReactJS Docs?
 
