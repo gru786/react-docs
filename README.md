@@ -1,7 +1,6 @@
 # ReactJS Docs (Unofficial)
 
-### Disclaimer: 
-**This is an unofficial app and is not affiliated with or endorsed by Facebook or the React.js team. The app is developed to make the official React.js documentation more accessible on mobile devices.**
+
 
 
 
@@ -36,3 +35,7 @@ Learning On-the-Go: Perfect for developers who want to learn and reference React
 Download ReactJS Docs now and enhance your React.js development experience by having the official documentation right in your pocket!
 
 For any feedback or support, please contact us at **shahgaurav786@gmail.com**. Happy coding!
+
+
+### Disclaimer: 
+**This is an unofficial app and is not affiliated with or endorsed by Facebook or the React.js team. The app is developed to make the official React.js documentation more accessible on mobile devices.**
